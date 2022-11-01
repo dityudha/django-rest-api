@@ -14,13 +14,13 @@ In the project directory, you can run:
 Go to django-rest-api directory and run this command:<br/>
 python -m venv (virtual env name)
 
-Go to virtual environment directory and run this command to install library:<br/>
-python -m pip install django djangorestframework django-cors-headers
-
-### Start django virtual environment
-
 Go to the env directory, and run this command "env\Scripts\activate".<br/>
 After running this command, you should see the name of the virtual environment enclosed in brackets.
+
+### Install Library 
+
+Inside virtual environment directory run this command to install library:<br/>
+python -m pip install django djangorestframework django-cors-headers
 
 ### Start Backend
 
