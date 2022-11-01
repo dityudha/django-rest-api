@@ -12,7 +12,7 @@ In the project directory, you can run:
 ### Create django virtual environment
 
 Go to django-rest-api directory and run this command:<br/>
-python -m venv <virtual env name>
+python -m venv (virtual env name)
 
 Go to virtual environment directory and run this command to install library:<br/>
 python -m pip install django djangorestframework django-cors-headers
