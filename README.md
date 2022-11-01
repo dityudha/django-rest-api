@@ -9,15 +9,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Create django virtual environment
+### Create django virtual environment
 
-Go to django-rest-api directory and run this command:
+Go to django-rest-api directory and run this command:__
 python -m venv <virtual env name>
 
 Go to virtual environment directory and run this command to install library:
 python -m pip install django djangorestframework django-cors-headers
 
-### `Start django virtual environment
+### Start django virtual environment
 
 Go to the env directory, and run this command "env\Scripts\activate". After running this command, you should see the name of the virtual environment enclosed in brackets.
 
