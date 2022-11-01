@@ -29,7 +29,8 @@ py manage.py runserver
 
 ### Start Frontend
 
-Go to frontend directory and run "npm start"<br/>
+Go to frontend directory and run "npm install"<br/>
+and after that run "npm start"<br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Migrate Database
