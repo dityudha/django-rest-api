@@ -14,7 +14,7 @@ In the project directory, you can run:
 Go to django-rest-api directory and run this command:<br/>
 python -m venv (virtual env name)
 
-Go to the env directory, and run this command "env\Scripts\activate".<br/>
+Go to the backend directory, and run this command "env\Scripts\activate".<br/>
 After running this command, you should see the name of the virtual environment enclosed in brackets.
 
 ### Install Library 
@@ -41,6 +41,7 @@ py manage.py migrate<br/>
 py manage.py migrate --run-syncdb (generate new local default sqlite database)<br/>
 
 
+### Apps Preview
 
-
+![5](https://user-images.githubusercontent.com/33762836/199679938-634a6ca0-43e4-41a9-87b5-9aae44f8120e.PNG)
 
